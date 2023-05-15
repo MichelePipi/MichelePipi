@@ -3,7 +3,6 @@
 </div>  
 
 ## Currently interested in: 
-- Penetration Testing and Hacking
 - Software Engineering
     - Java
     - Python
