@@ -6,7 +6,6 @@
 - Software Engineering
     - Java
     - Python
-    - Front-End and Back-End Development (HTML, CSS, JavaScript, Firebase, Nodejs, Vue)
     - Minecraft Plugin Development
     - Minecraft Modding
     - Applications Development
