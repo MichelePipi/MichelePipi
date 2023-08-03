@@ -6,6 +6,4 @@
 - Software Engineering
     - Java
     - Python
-    - Minecraft Plugin Development
-    - Minecraft Modding
-    - Applications Development
+    - Databases
