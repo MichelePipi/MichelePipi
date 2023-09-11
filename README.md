@@ -3,7 +3,9 @@
 </div>  
 
 ## Currently interested in: 
-- Software Engineering
-    - Java
-    - Python
-    - Databases
+- Flask
+- Python
+- Minecraft Plugins
+- SQL
+- Java
+- DS Modding
