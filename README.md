@@ -5,6 +5,5 @@
 ## Currently interested in: 
 - Flask
 - Python
-- Minecraft Plugins
 - SQL
 - Java
