@@ -8,4 +8,3 @@
 - Minecraft Plugins
 - SQL
 - Java
-- DS Modding
